@@ -1,0 +1,19 @@
+{
+  "name": "Go!",
+  "short_name": "Go Delivery SAC",
+  "description": "Pide a delivery todo lo que te imagines",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-PE",
+  "icons": [
+    {
+      "src": "./images/icon.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    }
+  ]
+}
